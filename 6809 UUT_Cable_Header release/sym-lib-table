@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "UUT_Cable_Header-rescue")(type "KiCad")(uri "${KIPRJMOD}/UUT_Cable_Header-rescue.kicad_sym")(options "")(descr ""))
+)
