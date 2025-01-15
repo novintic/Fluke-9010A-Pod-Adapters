@@ -13,7 +13,7 @@ If you don't know what all this means, you probably won't need any of it..;)
 Have fun
 
 01/2025
-Addede 6502 2x40 pin cable
+Added 6502 2x40 pin cable
 
 07/2024
 Uploaded files for 6809 and 68K pod-to-UUT cable headers too.
