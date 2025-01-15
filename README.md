@@ -6,7 +6,7 @@ Fluke Pod adapter: use a standard DB 25 cable with your repro pod. Should work w
 
 Fluke Pod adapter large: use a standard DB 25 cable with your repro pod. Should work with the 'large' pods like 6809 and 68000.
 
-Z80 Pod 2x40 Pin Cable: Use a double 40pin ribbon cable to get better signal quality / more stable interfacing even with longer cables.
+Z80 and 6502 Pod 2x40 Pin Cable: Use a double 40pin ribbon cable to get better signal quality / more stable interfacing even with longer cables.
 
 If you don't know what all this means, you probably won't need any of it..;)
 
